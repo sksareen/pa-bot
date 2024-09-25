@@ -1,0 +1,1 @@
+# src/database.py: Handles database connections and queries to Supabase

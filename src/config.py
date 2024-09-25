@@ -1,0 +1,1 @@
+# src/config.py: Stores configuration variables and API keys.

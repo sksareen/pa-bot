@@ -11,3 +11,9 @@ __pycache__/
 
 *.env
 
+.cursorrrules
+/img
+
+/OLD
+
+plan-X.md

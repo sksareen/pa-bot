@@ -1,4 +1,4 @@
-.env.local
+.env
 
 .venv/
 venv/
@@ -8,8 +8,6 @@ __pycache__/
 *.pyc
 
 *.log
-
-*.env
 
 .cursorrrules
 /img
